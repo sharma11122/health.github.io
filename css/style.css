@@ -497,6 +497,12 @@ footer{
         
     }
 
+    @media (max-width:785px){
+        .course{
+        width:100%;
+    }
+    }
+
 
 
 
